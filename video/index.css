@@ -1,0 +1,50 @@
+
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+a{
+    margin-bottom: 30px;
+}
+
+img{
+    width: 400px;
+    margin-left: 10px;
+}
+
+img:hover{
+    border: 5px solid white;
+    border-radius: 10px;
+
+}
+
+
+p{
+    font-size: 45px;
+}
+
+a{
+    font-size: 30px;
+}
+
+#video{
+   position: relative;
+   left: -20em;
+   top: 45px;
+   color: white;
+   text-decoration: none;
+}
+
+
+
+#voltar{
+    width:100px;
+    height: 85px;
+    position: relative;
+    top: 200px;
+    left: -750px;
+}
