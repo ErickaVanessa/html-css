@@ -1,3 +1,8 @@
 @charset "UTF-8";
 
-/* configurações deitada */
+/* configurações em pe*/
+
+body{
+    background-image: url(../mq002/imagem/cev-portrait.jpg);
+    background-position: center bottom;
+}
